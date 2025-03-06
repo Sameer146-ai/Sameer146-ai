@@ -1,3 +1,4 @@
+![logo](https://github.com/Sameer146-ai/Sameer146-ai/blob/main/DALL%C2%B7E%202025-03-06%2017.25.51%20-%20A%20futuristic%20GitHub%20banner%20for%20a%20coder%20named%20'Sameer%20Rahangdale'.%20The%20banner%20should%20have%20a%20dark%20mode%20aesthetic%20with%20neon%20blue%20and%20green%20colors.%20It%20sho.webp)
 <h1 align="center">Hi 👋, I'm Sameer Rahangdale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width ="400" alt = "coding" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
